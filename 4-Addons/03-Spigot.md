@@ -1,4 +1,5 @@
 ## Spigot
+Allows you to check plugin versions
 ### By EazyFTW
 **Elements**
 * Get Server Plugin Version.
