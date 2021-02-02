@@ -1,4 +1,4 @@
-## Vault`
+## Vault
 The Vault addon gives you the ability to edit and check players money
 ### By EazyFTW
 **Elements**
