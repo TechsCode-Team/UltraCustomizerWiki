@@ -1,4 +1,5 @@
 ## Text Componet
+Text componet Allows you to have a interaciable chat
 ### By Nathan
 #### Elements
 * Player Chat (Command), will execute the command on click.
