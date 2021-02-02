@@ -14,7 +14,7 @@
 * Send Sound.
 * Set Item In Main Hand.
 * Teleport Player.
-<br>
+\n
 **Constructors**
 * Explosion Prime.
 * Interact Event.
