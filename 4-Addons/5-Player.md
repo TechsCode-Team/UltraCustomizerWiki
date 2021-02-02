@@ -1,6 +1,6 @@
 ## Player
 ### By EazyFTW
-**Elements**
+#### Elements
 * Block Is NUll.
 * Block To Material.
 * Block TO Material String.
@@ -14,8 +14,8 @@
 * Send Sound.
 * Set Item In Main Hand.
 * Teleport Player.
-\n
-**Constructors**
+
+#### Constructors
 * Explosion Prime.
 * Interact Event.
 * Item Drop.
