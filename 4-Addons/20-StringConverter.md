@@ -5,5 +5,5 @@ The String Converter addon gives you the ability to convert strings to other dat
 <br>
 
 ### Elements
-* String To Boolean, Converts a string to a boolean.
-* String To Number, Converts a string to a numnber.
+* **String To Boolean**, *Converts a string to a boolean.*
+* **String To Number**, *Converts a string to a numnber.*

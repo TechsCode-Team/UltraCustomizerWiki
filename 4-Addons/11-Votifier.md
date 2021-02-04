@@ -6,4 +6,4 @@ The Votifier addon gives you the ability to run things when someone votes for th
 <br>
 
 ### Constructors
-* Vote Received (Votifier), Executed when a vote is received.
+* **Vote Received (Votifier)**, *Executed when a vote is received.*
