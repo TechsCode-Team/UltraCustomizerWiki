@@ -10,4 +10,4 @@ The TextUtils addon gives you the ability to altering the text within strings
 * **String Replace (Ignore Case)**, *Replaces selected text in the string with new text, ignoring the case.*
 * **String To Lowercase**, *Change a string to all lowercase.*
 * **String To Uppercase**, *Change a string to all uppercase.*
-* **Strgin Replace*, *Replaces selected text in the string with new text.*
+* **Strign Replace**, *Replaces selected text in the string with new text.*
