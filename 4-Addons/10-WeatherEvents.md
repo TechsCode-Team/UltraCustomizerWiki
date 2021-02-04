@@ -5,5 +5,5 @@ The Weather Events addon gives you the ability to add constructors that interact
 <br>
 
 ### Constructors
-* Lightning Strike (Event), Will run when a lightning strikes the ground.
-* Thunder Change (Event), Will run when thunder state changes.
+* **Lightning Strike (Event)**, *Will run when a lightning strikes the ground.*
+* **Thunder Change (Event)**, *Will run when thunder state changes.*

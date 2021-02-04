@@ -5,5 +5,5 @@ The Player Velocity Utils addon gives you the ability to get data for "Set veloc
 <br>
 
 ### Elements
-* Get Velocity From View, Will return X, Z axis from the diraction the player is looking at.
-* Get Velocity from View (Opposite), Will return X, Z axis from the diraction the player is looking at.
+* **Get Velocity From View**, *Will return X, Z axis from the diraction the player is looking at.*
+* **Get Velocity from View (Opposite)**, *Will return X, Z axis from the diraction the player is looking at.*

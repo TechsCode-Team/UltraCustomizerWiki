@@ -5,4 +5,4 @@ The Shifht Right Click addon gives you the abillity to excecute actions when a p
 <br>
 
 ### Constructors
-* Shift Right Click, Executeds when Shift right clicking.
+* **Shift Right Click**, *Executeds when Shift right clicking.*

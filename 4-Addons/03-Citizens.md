@@ -6,5 +6,5 @@ The Citizens addon gives you the ability to make scripts with interaction of a N
 <br>
 
 ### Constructors
-* NPC Left Click, Executed when right-clicking a NPC.
-* NPC Right Click, Executed when left-clicking a NPC.
+* **NPC Left Click**, *Executed when right-clicking a NPC.*
+* **NPC Right Click**, *Executed when left-clicking a NPC.*
