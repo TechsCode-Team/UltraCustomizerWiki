@@ -5,3 +5,4 @@ public ClassName(UltraCustomizer plugin) {
 		super(plugin);
 	}
 ```
+This is the same for both elements and constructors.
