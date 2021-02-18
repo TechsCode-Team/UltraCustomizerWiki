@@ -1,7 +1,7 @@
 ## Regular Installation
 
-To install the Ultra Economy on your server you need to drop the **UltraCustomizer.jar** Than restart your server.
-After restarting the server Ultra Economy has succefully installed
+To install the Ultra Customizer on your server you need to drop the **UltraCustomizer.jar** Than restart your server.
+After restarting the server Ultra Customizer has succefully installed
 
 <br />
 

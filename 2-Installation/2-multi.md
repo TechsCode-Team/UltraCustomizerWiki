@@ -22,10 +22,10 @@ If Ultra Customizer did not connect please follow the steps below.
 <br />
 
 #### Connecting the Bungee (Proxy)
-* Navigate to the Ultra Economy folder of a connected server
+* Navigate to the Ultra Customizer folder of a connected server
 * Enter the files *Registery.json* and copy the the MySQL key
 **NOTE:** This key can continue on a second line!
-* Navigate to the Ultra Economy folder on the bungee
+* Navigate to the Ultra Customizer folder on the bungee
 * Open the *Registery.json* file and replace the key
 
 The bungee should now been connected to your database.
