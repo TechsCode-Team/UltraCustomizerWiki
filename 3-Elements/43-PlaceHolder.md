@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Block Vanilla Behaviour</h2>
+<h2 style="text-align:center;"> Get Placeholder</h2>
 
 Will return the selected placeholder
 <br>
