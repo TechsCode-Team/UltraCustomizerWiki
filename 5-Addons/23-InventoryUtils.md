@@ -19,4 +19,4 @@ The Inventory Utils addon gives you the ability to
 * **Item Smelt Event**, *Will be executed when a item is smelted.*
 * **Player Swap Hands Event**, *Will be executed when a player swaps an item between their main hand and their offhand.*
 * **Item Craft Event**, *Will be Executed when an item is crafted.*
-* **Inventory Click Event**, *Will be executed when a player clicks their inventory.*
+* **Inventory Click Event**, *Will be executed when a player clicks their inventory.* \n **Notes:** The offhand slot is `40`, helmet `39`, chestplate `38`, leggings `37`, boots `36`, and the first slot is `0` not `1`.
