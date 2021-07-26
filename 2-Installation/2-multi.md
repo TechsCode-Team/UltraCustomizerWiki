@@ -1,35 +1,29 @@
-## Network Installation
+# Proxy Installation
+There are a variety of proxies out there. BungeeCord is the usual one that is most commonly used, although Waterfall (by the Paper devs) has improved performance. Therefore we recommend [Waterfall](https://papermc.io/downloads#Waterfall).
+<br>
 
-<br />
+For a proxy installation, you need to repeat the installation process for every server. Once you have finished installing the plugin on all the back-end servers, we need to install it onto the proxy.
+<br>
 
-**Important:** Before installing, make sure bungeecord is set to true in EVERY spigot.yml
+Once the plugin has is installed on the proxy, we need to set up the MySQL connections inside the back-end servers.
+<br>
 
-<br />
+## Connecting to MySQL
+To connect your server to MySQL you need to join your server and use
+***/upun >> Settings >> MySQL Database >> Setup MySQL >> Credentials***
+<br>
 
-Firstly install the *UltraCustomizer.jar* on every Server including your BungeeCord.
-In the next step, you have to enable MySQL for every Server via the intuitive interface.
-**Note:** If you already have permissions connect the server with permission first!
+Here you will need to fill in the credentials *(info)* of your database.
+<br>
 
-<br />
+Once you have filled in all the credentials, you can now test the connection and confirm it.
+<br>
 
-* Make sure that you have **ultracustomizer.admin** permision to get access to /uecon
-* Execute **/customizer**, navigate to *Settings > MySQL* and enter your MySQL credentials 
-* Restart your Server
+When you have connected a plugin to MySQL, you need to restart your server.
+<br>
 
-After you have repeated that process for every Server, Ultra Customizer should now be fully functional!
-If Ultra Customizer did not connect please follow the steps below.
+When you have repeated this process for all of your servers, your plugin is now proxy-ready.
+<br>
 
-<br />
-
-#### Connecting the Bungee (Proxy)
-* Navigate to the Ultra Customizer folder of a connected server
-* Enter the files *Registery.json* and copy the the MySQL key
-**NOTE:** This key can continue on a second line!
-* Navigate to the Ultra Customizer folder on the bungee
-* Open the *Registery.json* file and replace the key
-
-The bungee should now been connected to your database.
-
-<br />
-
-In the event that you create a new Server, just repeat the steps. The BungeeCord is configuring itself fully automatically
+**``NOTE:`` If your database has not connected or the test takes too long, you have entered the wrong credentials.**
+<br>
