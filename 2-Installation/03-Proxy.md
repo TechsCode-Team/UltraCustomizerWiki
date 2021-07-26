@@ -10,7 +10,7 @@ Once the plugin has is installed on the proxy, we need to set up the MySQL conne
 
 ## Connecting to MySQL
 To connect your server to MySQL you need to join your server and use
-***/upun >> Settings >> MySQL Database >> Setup MySQL >> Credentials***
+***/customizer >> Settings >> MySQL Database >> Setup MySQL >> Credentials***
 <br>
 
 Here you will need to fill in the credentials *(info)* of your database.
