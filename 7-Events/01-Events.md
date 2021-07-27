@@ -1,9 +1,7 @@
 ## Toggelable events
 <br>
 
-Current toggelable events
-<br>
-
+**Current toggelable events:**
 * `BlockBreakEvent`
 * `BlockBurnEvent`
 * `BlockCanBuildEvent`
