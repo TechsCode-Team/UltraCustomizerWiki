@@ -1,7 +1,6 @@
 ## Operators
 **By: Kihron**
 The Operators addon gives you the ability to add basic mathematical operations
-
 <br>
 
 ### Elements

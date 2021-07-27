@@ -12,5 +12,4 @@ If you would like to remove a addon head over to the Installed section there you
 
 <br>
 
-**NOTE:**
-These addons are not created by us. If you have a problem with them reach out to the author first or just uninstall them.
+**``NOTE:`` These addons are not created by us. If you have a problem with them reach out to the author first or just uninstall them.**

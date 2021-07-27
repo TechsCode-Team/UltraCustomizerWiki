@@ -1,7 +1,6 @@
 ## Player Velocity Utils
 **By: Nathan**
 The Player Velocity Utils addon gives you the ability to get data for "Set velocity" elements based on players direction and power
-
 <br>
 
 ### Elements

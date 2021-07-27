@@ -1,7 +1,6 @@
 ## Webhooks
 **By: Nathan**
 The webhook addon gives you the ability to post messages from Minecraft to a webhook
-
 <br>
 
 ### Elements

@@ -1,7 +1,6 @@
 ## Inventory Utils
 **By: MeepTortoise**
 The Inventory Utils addon gives you the ability to 
-
 <br>
 
 ### Elements

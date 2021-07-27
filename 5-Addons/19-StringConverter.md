@@ -1,7 +1,6 @@
 ## String Converter
 **By: Kihron**
 The String Converter addon gives you the ability to convert strings to other data types
-
 <br>
 
 ### Elements

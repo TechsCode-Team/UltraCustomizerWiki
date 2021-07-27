@@ -1,7 +1,6 @@
 ## Armor
 **By: MeepTortoise**
 The Armor addon gives you the ability to change and get the armor players are wearing
-
 <br>
 
 ### Elements

@@ -1,7 +1,6 @@
 ## Text Utils
 **By: MeepTortoise**
 The TextUtils addon gives you the ability to altering the text within strings
-
 <br>
 
 ### Elements
