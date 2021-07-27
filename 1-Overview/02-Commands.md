@@ -1,10 +1,13 @@
 ## Commands and Permissions
+<br>
 
-* ``/customizer`` to open the Main GUI
-(Requires ``ultracustomizer.admin``)
+**``NOTE:`` Both these commands require the `ultracustomizer.admin` permission**
+<br>
 
-* ``/interface <GUI>`` to open a GUI created by Ultra Customizer
-(Requires ``ultracustomizer.admin``)
-
+* ``/customizer``
+    Open the Main GUI
+* ``/interface <GUI>``
+    Open a GUI created by Ultra Customizer
+<br>
 
 The ``/interface`` command was mainly designed to be dispatched by other plugins
