@@ -9,9 +9,9 @@ You can communicate with our support team by joining our [Discord](https://disco
 ## What can you find on the wiki?
  - [Commands](/wiki/overview) - The list of commands
  - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Permissions
- - [Elements](/wiki/elements)
- - [Addons](/wiki/addons)
+ - [Elements](/wiki/elements) - All the available Elements for Scripts
+ - [Addons](/wiki/addons) - A list of all our Addons
  - [Features](/wiki/features) - A list with all the features of Ultra Permissions
  - [API](/wiki/api) - A guide on how to use our API
- - [Events](/wiki/events)
+ - [Events](/wiki/events) - All our Toggelable Events
 
