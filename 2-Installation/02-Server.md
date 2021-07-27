@@ -16,4 +16,4 @@ You should now be able to do **/customizer** to open the GUI!
 <br>
 
 
-**``NOTE:`` For proxy installation please continue to the proxy installation part.**
+**``NOTE:`` For proxy installation, please continue to the proxy installation part.**
