@@ -1,6 +1,8 @@
 ## Toggelable events
+<br>
 
 Current toggelable events
+<br>
 
 * `BlockBreakEvent`
 * `BlockBurnEvent`
@@ -15,5 +17,6 @@ Current toggelable events
 * `PlayerAnimationEvent`
 * `PlayerMoveEvent`
 * `PlayerCommandPreprocessEvent`
+<br>
 
-You can toggle these events by executing **/customizer** and clicking on the `Events` button
+You can toggle these events by executing **/customizer** and clicking on the `Events` button.
