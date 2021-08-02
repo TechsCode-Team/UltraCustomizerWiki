@@ -13,7 +13,3 @@ When your server has been started there should be a new folder called Ultra Cust
 
 ## Testing the plugin
 You should now be able to do **/customizer** to open the GUI!
-<br>
-
-
-**`NOTE:` For proxy installation, please continue to the proxy installation part.**
