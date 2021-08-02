@@ -3,7 +3,7 @@
 The BedWars addon gives you the ability to add constructors for BedWars1058's events
 <br>
 
-**``NOTE:`` This addon requires BedWars1058 to load!**
+**`NOTE:` This addon requires BedWars1058 to load!**
 <br>
 
 ### Constructors

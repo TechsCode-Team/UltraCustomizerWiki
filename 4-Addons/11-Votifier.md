@@ -3,7 +3,7 @@
 The Votifier addon gives you the ability to run things when someone votes for the server`
 <br>
 
-**``NOTE:`` This addon requires Votifier or NuVotifier to load!**
+**`NOTE:` This addon requires Votifier or NuVotifier to load!**
 <br>
 
 ### Constructors

@@ -10,7 +10,7 @@ Once the plugin has is installed on the proxy, we need to set up the MySQL conne
 
 ## Connecting to MySQL
 To connect your server to MySQL you need to join your server and use
-**``/customizer >> Settings >> MySQL Database >> Setup MySQL >> Credentials``**
+**`/customizer >> Settings >> MySQL Database >> Setup MySQL >> Credentials`**
 <br>
 
 Here you will need to fill in the credentials *(info)* of your database.
@@ -25,5 +25,5 @@ When you have connected a plugin to MySQL, you need to restart your server.
 When you have repeated this process for all of your servers, your plugin is now proxy-ready.
 <br>
 
-**``NOTE:`` If your database has not connected or the test takes too long, you have entered the wrong credentials.**
+**`NOTE:` If your database has not connected or the test takes too long, you have entered the wrong credentials.**
 <br>

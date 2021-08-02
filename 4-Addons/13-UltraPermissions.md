@@ -3,7 +3,7 @@
 The UltraPermissions addon gives you the ability to create/delete groups and permissions fro UltraPermissions
 <br>
 
-**``NOTE:`` This addon requires UltraPermissions to load!**
+**`NOTE:` This addon requires UltraPermissions to load!**
 <br>
 
 ### Elements

@@ -3,7 +3,7 @@
 The Citizens addon gives you the ability to make scripts with interaction of a NPC's
 <br>
 
-**``NOTE:`` This addon requires Citizens to load!**
+**`NOTE:` This addon requires Citizens to load!**
 
 <br>
 

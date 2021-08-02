@@ -3,7 +3,7 @@
 The Locale addon gives you the ability to retrieve a player in-game locale
 <br>
 
-**``NOTE:`` This addon requires Triton to load!**
+**`NOTE:` This addon requires Triton to load!**
 <br>
 
 ### Elements

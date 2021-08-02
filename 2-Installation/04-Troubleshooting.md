@@ -14,4 +14,4 @@
   Here you need to copy the MySQL key.
 <br>
 
-**``NOTE:`` This key can continue on a second line, so make sure to copy it all!**
+**`NOTE:` This key can continue on a second line, so make sure to copy it all!**
