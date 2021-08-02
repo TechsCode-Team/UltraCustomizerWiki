@@ -13,4 +13,3 @@ You can communicate with our support team by joining our **[Discord](https://dis
  - [Addons](/wiki/addons) - A list of all our Addons
  - [Events](/wiki/events) - All our Toggelable Events
  - [API](/wiki/api) - A guide on how to use our API
-

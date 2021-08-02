@@ -26,4 +26,3 @@ When you have repeated this process for all of your servers, your plugin is now 
 <br>
 
 **`NOTE:` If your database has not connected or the test takes too long, you have entered the wrong credentials.**
-<br>
