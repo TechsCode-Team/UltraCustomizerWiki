@@ -3,7 +3,7 @@ Welcome to the Wiki page of Ultra Customizer, where you can find all the informa
 <br>
 
 ## Contact
-You can communicate with our support team by joining our **[Discord](https://discord.gg/techscode)**. It is the only way we can give you support once you have verified your purchase.
+You can communicate with our support team by joining our **[Discord](https://discord.gg/3JuHDm8)**. It is the only way we can give you support once you have verified your purchase.
 <br>
 
 ## What can you find on the wiki?
