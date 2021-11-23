@@ -5,7 +5,6 @@ UltraCustomizer already has some basic elements but you can enhance your usage o
 <br>
 
 **How can I install new addons?**
-<br>
 Installing addons is very simple. 
 By opening UltraCustomizer's GUI (using `/customizer`) and clicking on the Chest Minecart. You will see the **Marketplace** (Represented by an Emerald, and where you can install addons) and an **Installed** button (Represented by a Hopper Minecart, and where you can see all your installed addons).
 
@@ -20,7 +19,6 @@ If you would like to remove an addon, head over to the Installed section there y
 <br>
 
 **Are those addons free?**
-<br>
 Yes they're, all of the addons found in the Marketplace are free.
 
 <br>
