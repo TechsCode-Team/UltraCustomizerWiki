@@ -23,4 +23,4 @@ Yes they're, all of the addons found in the Marketplace are free.
 
 <br>
 
-**`NOTE:` These addons are not created by TechsCode Team. If you have a problem with them, either uninstall them or reach out to the author (all of the authors are in our Discord).**
+**`NOTE:` These addons are not created by TechsCode Team. If you have a problem with them, either uninstall them or reach out to the author (all of the authors are in our Discord - Except Nathan and MrVizzy).**
