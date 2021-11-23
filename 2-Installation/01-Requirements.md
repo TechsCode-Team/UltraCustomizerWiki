@@ -3,7 +3,7 @@ You will need either **SpigotMC, PaperMC** or **[a similar fork](https://github.
 <br>
 
 ## Server Version
-Ultra Customizer has been tested and supported on versions between **1.8.8 - 1.17.X**. Versions out of this range are not be supported and will not recieve support.
+Ultra Customizer has been tested and supported on versions between **1.8.8 - 1.17.1**. Versions out of this range are not supported and will not recieve any support.
 <br>
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
