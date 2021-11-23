@@ -17,4 +17,4 @@
 * `PlayerCommandPreprocessEvent`
 <br>
 
-You can toggle these events by executing **/customizer** and clicking on the `Events` button.
+You can toggle these events by executing **/customizer** to open the plugin's GUI and clicking on the Blaze rod in the bottom-left of the GUI. (Called **`Event Manager`**)
