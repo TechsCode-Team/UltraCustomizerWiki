@@ -15,7 +15,7 @@ The Player addon gives you the ability to run elements and construcors related t
 * **Is In World**, *Runs one of two actions depending if a player is in a certain world.*
 * **Player Centered Message**, *Send a centered message to a specific player.*
 * **Player Send Sound With Pitch/Volume**, *Send a sound to a player with a certain pitch and volume.*
-* **Set Item In (Main) Hand**, *Set the item in a player's mian hand.*
+* **Set Item In (Main) Hand**, *Set the item in a player's main hand.*
 * **Get Player's Target Block**, *Get the player's target block to air.*
 * **Teleport Player**, *Teleport a player to a certain location.*
 
