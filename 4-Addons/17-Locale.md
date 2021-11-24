@@ -1,5 +1,5 @@
 ## Locale
-**By: xMrVizzy**
+**By: EazyFTW**
 The Locale addon gives you the ability to retrieve a player in-game locale
 <br>
 
