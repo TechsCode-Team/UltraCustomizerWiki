@@ -1,5 +1,5 @@
 ## Votifier
-**By: MrWolfeh**
+**By: mirko0**
 The Votifier addon gives you the ability to run things when someone votes for the server`
 <br>
 
