@@ -1,5 +1,5 @@
 ## Shift Right Click
-**By: MrWolfeh**
+**By: mirko0**
 The Shift Right-Click addon gives you the abillity to excecute actions when a player is shifting and right clicking
 <br>
 
