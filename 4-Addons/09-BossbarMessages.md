@@ -1,5 +1,5 @@
 ## Bossbar Messages
-**By: MrWolfeh**
+**By: mirko0**
 The Bossbar Messages addon gives you the ability to have timed or permanent bossbar messages to players
 <br>
 
