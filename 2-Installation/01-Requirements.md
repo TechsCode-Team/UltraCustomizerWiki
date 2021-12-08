@@ -3,7 +3,7 @@ For Ultra Customizer to run smoothly **SpigotMC, PaperMC** or **[a similar fork]
 <br>
 
 ## Server Version
-Ultra Customizer is supported on all versions (release) from **1.8.8 to 1.17.1**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
+Ultra Customizer is supported on all versions (release) from **1.8.8 to 1.18.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
 <br>
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
