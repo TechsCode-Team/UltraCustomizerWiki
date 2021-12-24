@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Give Material</h2>
+<h2 style="text-align:center;"> Open GUI</h2>
 
 Will open a specific GUI for the selected player
 <br>

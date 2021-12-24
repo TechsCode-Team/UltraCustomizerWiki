@@ -1,0 +1,289 @@
+{
+  "overview": {
+    "iconType": "fas",
+    "icon":"map",
+    "title":"Overview",
+    "subItems": {
+
+    }
+  },
+  "installation": {
+    "iconType": "fas",
+    "icon":"tasks",
+    "title":"Installation",
+    "subItems": {
+      "server": {
+        "title":"Server"
+      },
+      "proxy": {
+        "title":"Proxy"
+      },
+      "troubleshooting": {
+        "title":"Troubleshooting"
+      }
+    }
+  },
+  "elements": {
+    "iconType": "fas",
+    "icon":"sticky-note",
+    "title":"All Elements",
+    "subItems": {
+      "get-first-argument": {
+        "title":"Get First Argument"
+      },
+      "get-all-arguments-as-string": {
+        "title":"Get All Arguments As String"
+      },
+      "has-arguments": {
+        "title":"Has Arguments"
+      },
+      "get-material-of-block": {
+        "title":"Get Material of Block"
+      },
+      "set-material-of-block": {
+        "title":"Set Material of Block"
+      },
+      "broadcast": {
+        "title":"Broadcast"
+      },
+      "compare-item": {
+        "title":"Compare Item"
+      },
+      "compare-string": {
+        "title":"Compare String"
+      },
+      "console-command": {
+        "title":"Console Command"
+      },
+      "execute-for-all-players": {
+        "title":"Execute for all Players"
+      },
+      "greater-than": {
+        "title":"Greater Than"
+      },
+      "greater-than-or-equal-to": {
+        "title":"Greater Than Or Equal To"
+      },
+      "less-than": {
+        "title":"Less Than"
+      },
+      "less-than-or-equal-to": {
+        "title":"Less Than or Equal To"
+      },
+      "number-to-text": {
+        "title":"Number To Text"
+      },
+      "offline-player-selector": {
+        "title":"Offline Player Selector"
+      },
+      "online-player-selector": {
+        "title":"Online Player Selector"
+      },
+      "player-command": {
+        "title":"Player Command"
+      },
+      "player-command-ignore-permission": {
+        "title":"Player Command (Ignore Perm)"
+      },
+      "get-player-from-name": {
+        "title":"Get Player from Name"
+      },
+      "player-close-inventory": {
+        "title":"Player Close Inventory"
+      },
+      "get-player-name": {
+        "title":"Get Player Name"
+      },
+      "get-player-uuid": {
+        "title":"Get Player UUID"
+      },
+      "give-item": {
+        "title":"Give Item"
+      },
+      "give-levels": {
+        "title":"Give Levels"
+      },
+      "give-material": {
+        "title":"Give Material"
+      },
+      "has-permission": {
+        "title":"Has Permission"
+      },
+      "open-gui": {
+        "title":"Open GUI"
+      },
+      "play-sound": {
+        "title":"Play Sound"
+      },
+      "remove-item-from-player": {
+        "title":"Remove Item from Player"
+      },
+      "player-actionbar-message": {
+        "title":"Player Actionbar Message"
+      },
+      "player-message": {
+        "title":"Player Message"
+      },
+      "send-player-title": {
+        "title":"Send Player Title"
+      },
+      "set-velocity": {
+        "title":"Set Velocity"
+      },
+      "set-food": {
+        "title":"Set Food"
+      },
+      "set-health": {
+        "title":"Set Health"
+      },
+      "random-50": {
+        "title":"Random(50%)"
+      },
+      "random-30": {
+        "title":"Random(30%)"
+      },
+      "random-number": {
+        "title":"Random Number"
+      },
+      "seperate-click-types": {
+        "title":"Seperate Click Types"
+      },
+      "number-user-input": {
+        "title":"Number User Input"
+      },
+      "block-vanilla-behaviour": {
+        "title":"Block Vanilla Behaviour"
+      },
+      "get-placeholder": {
+        "title":"Get Placeholder"
+      },
+      "discord-send-channel-embed": {
+        "title":"Discord Send Channel Embed"
+      },
+      "discord-send-channel-message": {
+        "title":"Discord Send Channel Message"
+      },
+      "discord-send-user-message": {
+        "title":"Discord Send User Message"
+      }
+    }
+  },
+  "addons": {
+    "iconType": "fas",
+    "icon":"plus-square",
+    "title":"Addons",
+    "subItems": {
+      "player": {
+        "title":"Player"
+      },
+      "shift-right-click": {
+        "title":"Shift Right Click"
+      },
+      "bossbar-message": {
+        "title":"Bossbar Messages"
+      },
+      "variables": {
+        "title":"Variables"
+      },
+      "text-component": {
+        "title":"Text Component"
+      },
+      "votifier": {
+        "title":"Votifier"
+      },
+      "webhooks": {
+        "title":"Webhooks"
+      },
+      "armor": {
+        "title":"Armor"
+      },
+      "vault": {
+        "title":"Vault"
+      },
+      "bungeeCord": {
+        "title":"BungeeCord"
+      },
+      "locale": {
+        "title":"Locale"
+      },
+      "weather-events": {
+        "title":"Weather Events"
+      },
+      "citizens": {
+        "title":"Citizens"
+      },
+      "sneaking": {
+        "title":"Sneaking"
+      },
+      "player-velocity-utils": {
+        "title":"Player Velocity Utils"
+      },
+      "spigot": {
+        "title":"Spigot"
+      },
+      "inventory-utils": {
+        "title":"Inventory Utils"
+      },
+      "string-converter": {
+        "title":"String Converter"
+      },
+      "operators": {
+        "title":"Operators"
+      },
+      "text-utils": {
+        "title":"Text Utils"
+      },
+      "bed-wars": {
+        "title":"BedWars"
+      },
+      "downloads": {
+        "title":"Downloads"
+      },
+      "fly-toggle": {
+        "title":"Fly Toggle"
+      },
+      "gamemode-changer": {
+        "title":"Gamemode Changer"
+      },
+      "read-txt-file": {
+        "title":"Read Txt File"
+      },
+      "player-stepped-on-block": {
+        "title":"Player Stepped On Block"
+      },
+      "player-kill": {
+        "title":"Player Kill"
+      },
+      "better-compared-elements": {
+        "title":"Better Compared Elements"
+      },
+      "ultra-permissions": {
+        "title":"UltraPermissions"
+      }
+    }
+  },
+  "events": {
+    "iconType": "fas",
+    "icon":"map",
+    "title":"Events",
+    "subItems": {
+
+    }
+  },
+  "faq": {
+    "iconType": "fas",
+    "icon":"question",
+    "title":"FAQ",
+    "subItems": {
+
+    }
+  },
+  "api": {
+    "iconType": "fas",
+    "icon":"code",
+    "title":"API",
+    "subItems": {
+
+    }
+  }
+}
