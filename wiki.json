@@ -156,15 +156,6 @@
       },
       "get-placeholder": {
         "title":"Get Placeholder"
-      },
-      "discord-send-channel-embed": {
-        "title":"Discord Send Channel Embed"
-      },
-      "discord-send-channel-message": {
-        "title":"Discord Send Channel Message"
-      },
-      "discord-send-user-message": {
-        "title":"Discord Send User Message"
       }
     }
   },
