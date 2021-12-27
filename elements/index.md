@@ -42,5 +42,4 @@
 * [Random Number](./elements/random-number)
 * [Seperate Click Types](./elements/seperate-click-types)
 * [Number User Input](./elements/number-user-input)
-* [Block Vanilla Behaviour](./elements/block-vanilla-behaviour)
 * [Get Placeholder](./elements/get-placeholder)
