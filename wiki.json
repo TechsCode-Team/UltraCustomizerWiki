@@ -15,8 +15,8 @@
       "server": {
         "title":"Server"
       },
-      "proxy": {
-        "title":"Proxy"
+      "mysql": {
+        "title":"MySQL Storage"
       },
       "troubleshooting": {
         "title":"Troubleshooting"
