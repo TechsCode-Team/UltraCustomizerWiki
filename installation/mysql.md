@@ -1,5 +1,5 @@
 ## Connecting to MySQL
-A MySQL database can be used for store data. To start your storage process, connect to your server in-game, and open the plugin's GUI by executing the command `/customizer` in chat.
+A MySQL database is used only for store datas and not for sync creations accross the servers. To start your storage process, connect to your server in-game, and open the plugin's GUI by executing the command `/customizer` in chat.
 <br>
 
 Then click on the Command Block in the bottom-left of the GUI. *(Called `Settings`)*
