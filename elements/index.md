@@ -44,6 +44,3 @@
 * [Number User Input](./elements/number-user-input)
 * [Block Vanilla Behaviour](./elements/block-vanilla-behaviour)
 * [Get Placeholder](./elements/get-placeholder)
-* [Discord Send Channel Embed](./elements/discord-send-channel-embed)
-* [Discord Send Channel Message](./elements/discord-send-channel-message)
-* [Discord Send User Message](./elements/discord-send-user-message)
