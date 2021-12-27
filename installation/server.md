@@ -11,6 +11,6 @@ Once your server has started, a new folder called Ultra Customizer should have b
 ## Testing the plugin
 While your server is starting, look at the console for any possible [ERROR] message. Any [WARN] is not a problem, and will not disturb your use of the plugin.
 
-You should now be able to do **/customizer** to open the GUI.
+You should now be able to do `/customizer` to open the GUI.
 
 If you see a gui, that means you are good to go !
