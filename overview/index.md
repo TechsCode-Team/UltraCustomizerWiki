@@ -16,6 +16,8 @@ You can communicate with our support team by joining our **[Discord](https://dis
 
 ## Commands and Permissions
 <br>
+<br>
+<br>
 
 **`NOTE:` Both these commands require the `ultracustomizer.admin` permission**
 <br>
