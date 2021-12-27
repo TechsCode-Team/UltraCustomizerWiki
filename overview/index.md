@@ -7,7 +7,7 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](/wiki/overview) - The list of commands
+- [Commands](/wiki/overview#commands) - The list of commands
 - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Customizer
 - [Elements](/wiki/elements) - All the available Elements for Scripts
 - [Addons](/wiki/addons) - A list of all our Addons
@@ -15,9 +15,8 @@ You can communicate with our support team by joining our **[Discord](https://dis
 - [API](/wiki/api) - A guide on how to use our API
 <br>
 <br>
-<br>
 
-## Commands and Permissions
+## Commands and Permissions {#commands}
 
 **`NOTE:` Both these commands require the `ultracustomizer.admin` permission**
 <br>
