@@ -1,5 +1,5 @@
 ## BungeeCord Incompatibility
-UltraCustomizer does NOT offer bungee compatibility as each command is made for that server specific. UltraCustomizer does provide a MySQL storage option to save your data on a database.
+UltraCustomizer does **NOT** offer bungee compatibility as each command is made for that server specific. It does provide a MySQL storage option to save your data on a database.
 
 UltraCustomizer does offer a share option to make sharing thru server possible more can be found **[HERE](https://guides.ultracustomizer.com/basics/import-export-folders/import-export)**
 
