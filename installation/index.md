@@ -1,5 +1,5 @@
 # Server Requirements
-To run Ultra Customizer you will require **Spigot**, **PaperMC** or any other fork of spigot that can be found **[HERE](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)**. To get the best out of your server and Ultra Customizer we recommend using **[PaperMC](https://papermc.io/downloads)**.
+Ultra Customizer requires **[Spigot](https://getbukkit.org/download/spigot)**, **[PaperMC](https://papermc.io/downloads)**, or **[any other fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** of spigot to run smoothly. We recommend using **PaperMC** to ensure the best possible performance.
 <br>
 
 ## Server Version
