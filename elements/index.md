@@ -21,6 +21,7 @@
 * [Player Command](./elements/player-command)
 * [Player Command (Ignore Perm)](./elements/player-command-ignore-permission)
 * [Get Player from Name](./elements/get-player-from-name)
+* [Clear Inventory](./elements/clear-inventory)
 * [Player Close Inventory](./elements/player-close-inventory)
 * [Get Player Name](./elements/get-player-name)
 * [Get Player UUID](./elements/get-player-uuid)
