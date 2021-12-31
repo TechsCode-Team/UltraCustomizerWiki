@@ -5,5 +5,3 @@ Will open a Number Picker GUI
 
 **Output**
 Int
-
-<br>
