@@ -18,6 +18,7 @@
 * [Number To Text](./elements/number-to-text)
 * [Offline Player Selector](./elements/offline-player-selector)
 * [Online Player Selector](./elements/online-player-selector)
+* [Player Online](./elements/player-online)
 * [Player Command](./elements/player-command)
 * [Player Command (Ignore Perm)](./elements/player-command-ignore-permission)
 * [Get Player from Name](./elements/get-player-from-name)
