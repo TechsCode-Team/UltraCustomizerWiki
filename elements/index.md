@@ -44,4 +44,5 @@
 * [Random Number](./elements/random-number)
 * [Seperate Click Types](./elements/seperate-click-types)
 * [Number User Input](./elements/number-user-input)
+* [Text User Input](./elements/text-user-input)
 * [Get Placeholder](./elements/get-placeholder)
