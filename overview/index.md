@@ -7,7 +7,7 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands and Permissions](/wiki/overview#commands) - The list of commands
+- [Commands and Permissions](/wiki/overview#commands) - The list of commands and permissions
 - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Customizer
 - [Elements](/wiki/elements) - All the available Elements for Scripts
 - [Addons](/wiki/addons) - A list of all our Addons
