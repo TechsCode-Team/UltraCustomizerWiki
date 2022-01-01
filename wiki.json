@@ -19,17 +19,17 @@
       "server": {
         "title":"Server",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "mysql": {
         "title":"MySQL Storage",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "troubleshooting": {
         "title":"Troubleshooting",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       }
     }
   },
@@ -267,147 +267,147 @@
       "player": {
         "title":"Player",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "shift-right-click": {
         "title":"Shift Right Click",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "bossbar-message": {
         "title":"Bossbar Messages",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "variables": {
         "title":"Variables",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "text-component": {
         "title":"Text Component",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "votifier": {
         "title":"Votifier",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "webhooks": {
         "title":"Webhooks",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "armor": {
         "title":"Armor",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "vault": {
         "title":"Vault",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "bungeecord": {
         "title":"BungeeCord",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "locale": {
         "title":"Locale",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "weather-events": {
         "title":"Weather Events",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "citizens": {
         "title":"Citizens",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "sneaking": {
         "title":"Sneaking",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "player-velocity-utils": {
         "title":"Player Velocity Utils",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "spigot": {
         "title":"Spigot",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "inventory-utils": {
         "title":"Inventory Utils",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "string-converter": {
         "title":"String Converter",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "operators": {
         "title":"Operators",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "text-utils": {
         "title":"Text Utils",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "bed-wars": {
         "title":"BedWars",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "downloads": {
         "title":"Downloads",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "fly-toggle": {
         "title":"Fly Toggle",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "gamemode-changer": {
         "title":"Gamemode Changer",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "read-txt-file": {
         "title":"Read Txt File",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "player-stepped-on-block": {
         "title":"Player Stepped On Block",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "player-kill": {
         "title":"Player Kill",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "better-compared-elements": {
         "title":"Better Compared Elements",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "ultra-permissions": {
         "title":"UltraPermissions",
         "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       }
     }
   },
