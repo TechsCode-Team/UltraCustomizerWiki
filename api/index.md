@@ -1,5 +1,6 @@
 ## Usage
 The api of ultra customizer can be used to make addons for the marketplace. To use the api the ultra customizer jar and the spigot jar must be added to the library of the workspace. Your main class should extend `Constructor` for construcors and `Element` for elements.
+<br>
 
 ## Initialization
 To make the element work the you first have to add the following code:
@@ -9,6 +10,7 @@ public ClassName(UltraCustomizer plugin) {
 }
 ```
 This is the same for both elements and constructors.
+<br>
 
 ## Get Name
 The next thing to add is the element or constructor name.
@@ -17,6 +19,7 @@ public String getName() {
 	return "Element Name";
 }
 ```
+<br>
 
 ## Get Internal Name
 Afterwards you will want to set the name the plugin views the element as. This name can not have spaces and should not have capitals.
@@ -25,6 +28,7 @@ public String getInternalName() {
 	return "element-name";
 }
 ```
+<br>
 
 ## Hiding if not Compatible
 Here you will input this code. Do not change it unless you know what you are doing.
@@ -33,6 +37,7 @@ public boolean isHidingIfNotCompatible() {
 	return false;
 }
 ```
+<br>
 
 ## Get Material
 This will return the material the element or constructor will have.
@@ -41,6 +46,7 @@ public XMaterial getMaterial() {
 	return XMaterial.BARRIER;
 }
 ```
+<br>
 
 ## Get Description
 This will get the description your element or constructor will have in the selection gui.
@@ -50,9 +56,12 @@ public String[] getDescription() {
 }
 ```
 You can add multiple lines by adding a comma between the lines. EX: `{ "Lore1", "Lore2" }`.
+<br>
 
 ## Get Arguments
 This will be the arguments that the user is prompted to put in.
+<br>
+
 ### No Arguments
 ```java
 public Argument[] getArguments(ElementInfo elementInfo) {
@@ -66,6 +75,8 @@ public Argument[] getArguments(ElementInfo elementInfo) {
 }
 ```
 You can add multiple arguments adding a comma and repeating the new argument code `new Argument("internal-name", "Display Name", DataType.PLAYER, elementInfo)`.
+<br>
+
 ### Avalible Datatypes
 * Arguments
 * Block
@@ -81,9 +92,12 @@ You can add multiple arguments adding a comma and repeating the new argument cod
 * String
 * Ticks
 * Time
+<br>
 
 ## Outcoming Variables
 This will be the variables the element creates which can be used by other elements.
+<br>
+
 ### No Variables
 ```java
 public OutcomingVariable[] getOutcomingVariables(ElementInfo elementInfo) {
@@ -97,6 +111,8 @@ public OutcomingVariable[] getOutcomingVariables(ElementInfo elementInfo) {
 }
 ```
 You can add multiple arguments adding a comma and repeating the new argument code `new OutcomingVariable("internal-name", "Display Name", DataType.PLAYER, elementInfo)`.
+<br>
+
 ### Avalible Datatypes
 * Arguments
 * Block
@@ -112,6 +128,7 @@ You can add multiple arguments adding a comma and repeating the new argument cod
 * String
 * Ticks
 * Time
+<br>
 
 ### Get Connectors
 This will go to the next element after this element is complete. **Only for elements, not constructors**.
@@ -145,6 +162,8 @@ public void run(ElementInfo info, ScriptInstance instance) {
 ```
 ### Using Arguments
 In order to use the value of the incoming arguments, you have to use `getArguments(info)[0].getValue(instance)`, with the number being equal to argument in the order added.
+<br>
+
 ### Setting Outcoming Variable
 To set the outcoming variable you have to use
 ```java
@@ -154,8 +173,11 @@ To set the outcoming variable you have to use
 	});
 ```
 Inside the public Object request is where you will execute code to set the variable, useing `return (value)` to set the outcoming variable.
+<br>
+
 ### No Outcoming Variable
 When there is no outcoming vaiable ignore the above step, and just execture the code in the run function.
+<br>
 
 ### Event Handler
 For constructers this is what will listen for a minecraft event that elements will run off. To find what events you can listen for check the spigot javadocs.
@@ -172,6 +194,7 @@ if (e.getItem() != null)
 	call(e);
 ```
 This will only call the event if the item used in the event is not null. Useful when you use variables which break when null.
+<br>
 
 ### Call
 This is the code that will be executed in constructures when the event is called.
@@ -189,6 +212,7 @@ public void call(final SameEventAsEventHandler e) {
 }
 ```
 Here is where you will set the values for the outcoming vairbales. The first is an example for setting the Cancelable event variable.
+<br>
 
 ### Is Unlisted
 Weather or not the constructor is listed or not.
@@ -197,6 +221,7 @@ public boolean isUnlisted() {
 	return false;
 }
 ```
+<br>
 
 ### Example Element Code
 The "Get Item In Slot" element from inventory utils.
