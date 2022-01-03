@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Execute for all Players</h2>
+# Execute for all Players
 
 Will loop thought the players to do the next element  
 <br>

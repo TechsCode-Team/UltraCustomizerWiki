@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Play Sound</h2>
+# Play Sound
 
 Plays a specific sound for the selected Player
 <br>

@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Remove Item from Player</h2>
+# Remove Item from Player
 
 Removes a specific amount of items from the players inventory
 <br>

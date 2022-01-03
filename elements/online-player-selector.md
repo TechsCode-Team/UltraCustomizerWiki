@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Online Player Selector</h2>
+# Online Player Selector
 
 Will open a GUI with all online players
 <br>

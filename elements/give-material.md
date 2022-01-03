@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Give Material</h2>
+# Give Material
 
 Give a player a specific item
 

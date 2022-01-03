@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Random(50%)</h2>
+# Random(50%)
 
 Will execute a random out of 2 connected elements
 <br>

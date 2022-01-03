@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Give Levels</h2>
+# Give Levels
 
 Gives a specific amount of levels to a player
 <br>

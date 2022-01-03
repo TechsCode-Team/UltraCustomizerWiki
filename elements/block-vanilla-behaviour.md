@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Block Vanilla Behaviour</h2>
+# Block Vanilla Behaviour
 
 Blocks Vanilla Behaviour from the Constructor

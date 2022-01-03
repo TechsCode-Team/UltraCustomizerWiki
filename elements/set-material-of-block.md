@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Set Material of Block</h2>
+# Set Material of Block
 
 Replaces the current placed Block with a different one
  <br>

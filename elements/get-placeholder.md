@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Get Placeholder</h2>
+# Get Placeholder
 
 Will return the selected placeholder
 <br>

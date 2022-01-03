@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Has Arguments</h2>
+# Has Arguments
 
 Check if there are Arguments any provided by a command
 <br>

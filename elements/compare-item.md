@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Compare Item</h2>
+# Compare Item
 
 Will check if two Items are the same
 

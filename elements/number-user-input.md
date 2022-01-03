@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Number User Input</h2>
+# Number User Input
 
 Will open a Number Picker GUI
 <br>

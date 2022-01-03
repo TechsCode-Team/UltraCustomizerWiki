@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Player Command (Ignore Perm)</h2>
+# Player Command (Ignore Perm)
 
 Will perform a specific command for a specific player while bypassing permission requirements 
 <br>

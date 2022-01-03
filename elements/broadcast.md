@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Broadcast</h2>
+# Broadcast
 
 Sends a message to all players that have the permission bukkit.broadcast
 <br>

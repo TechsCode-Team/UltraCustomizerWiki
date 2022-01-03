@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Clear Inventory</h2>
+# Clear Inventory
 
 Clears the whole Inventory of a Player
 <br>

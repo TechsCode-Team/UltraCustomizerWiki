@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Get Player Name</h2>
+# Get Player Name
 
 Retrieve the Unique ID of a player
 <br>

@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Compare String</h2>
+# Compare String
 
 Will check if two Strings are the same
 

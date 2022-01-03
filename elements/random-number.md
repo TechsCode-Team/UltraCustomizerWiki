@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Random Number</h2>
+# Random Number
 
 Will generate a random number between the picked numbers
 

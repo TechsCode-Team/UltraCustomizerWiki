@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Player Command</h2>
+# Player Command
 
 Will perform a specific command for a specific player
 

@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Text User Input</h2>
+# Text User Input
 
 Will prompt the player to input text in chat
 <br>

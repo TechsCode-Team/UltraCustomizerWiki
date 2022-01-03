@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Player Close Inventory</h2>
+# Player Close Inventory
 
 Will close the inventory for a specific player
 <br>

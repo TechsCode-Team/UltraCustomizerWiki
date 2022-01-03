@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Get Material of Block</h2>
+# Get Material of Block
 
 Will retrieve the Material of a specific Block for Compare Material
 <br>

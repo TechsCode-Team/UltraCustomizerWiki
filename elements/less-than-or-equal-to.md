@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Less Than or Equal To</h2>
+# Less Than or Equal To
 
 Will check if the first number is less or Equal than the next number
 <br>

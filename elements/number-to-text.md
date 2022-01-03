@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Number To Text</h2>
+# Number To Text
 
 Converts a Number Variable to Text Variable
 <br>

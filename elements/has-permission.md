@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Has Permission</h2>
+# Has Permission
 
 Checks if a player has a permission
 <br>

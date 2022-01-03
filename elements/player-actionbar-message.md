@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Player Actionbar Message</h2>
+# Player Actionbar Message
 
 Send a player an actionbar message
 <br>

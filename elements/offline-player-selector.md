@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Offline Player Selector</h2>
+# Offline Player Selector
 
 Will open a GUI with all offline players
 <br>

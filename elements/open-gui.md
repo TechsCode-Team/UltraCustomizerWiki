@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Open GUI</h2>
+# Open GUI
 
 Will open a specific GUI for the selected player
 <br>

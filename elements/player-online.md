@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Player Online</h2>
+# Player Online
 
 Checks if the player is online
 <br>

@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Set Food</h2>
+# Set Food
 
 Sets the food-level of the player
 Max is 20 
