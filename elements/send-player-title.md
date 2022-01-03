@@ -1,4 +1,4 @@
-# Send Player Title
+## Send Player Title
 
 Send a specific title to a player
 <br>

@@ -1,4 +1,4 @@
-# Greater Than Or Equal To
+## Greater Than Or Equal To
 
 Will check if the first number is greater or Equal than the next number
 <br>

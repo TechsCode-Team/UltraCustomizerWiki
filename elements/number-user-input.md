@@ -1,4 +1,4 @@
-# Number User Input
+## Number User Input
 
 Will open a Number Picker GUI
 <br>

@@ -1,4 +1,4 @@
-# Get Placeholder
+## Get Placeholder
 
 Will return the selected placeholder
 <br>

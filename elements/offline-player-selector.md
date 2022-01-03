@@ -1,4 +1,4 @@
-# Offline Player Selector
+## Offline Player Selector
 
 Will open a GUI with all offline players
 <br>

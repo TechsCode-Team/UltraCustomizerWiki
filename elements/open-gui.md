@@ -1,4 +1,4 @@
-# Open GUI
+## Open GUI
 
 Will open a specific GUI for the selected player
 <br>

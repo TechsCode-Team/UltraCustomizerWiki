@@ -1,4 +1,4 @@
-# Compare String
+## Compare String
 
 Will check if two Strings are the same
 

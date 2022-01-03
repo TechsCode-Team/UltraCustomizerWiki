@@ -1,4 +1,4 @@
-# Set Health
+## Set Health
 
 Sets the amount of health that the player has.
 <br>

@@ -1,4 +1,4 @@
-# Play Sound
+## Play Sound
 
 Plays a specific sound for the selected Player
 <br>

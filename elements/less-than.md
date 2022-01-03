@@ -1,4 +1,4 @@
-# Less Than
+## Less Than
 
 Will check if the first number is less than the next number
 <br>

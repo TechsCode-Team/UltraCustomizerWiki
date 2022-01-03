@@ -1,4 +1,4 @@
-# Online Player Selector
+## Online Player Selector
 
 Will open a GUI with all online players
 <br>

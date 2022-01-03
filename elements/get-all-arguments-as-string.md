@@ -1,4 +1,4 @@
-# Get All Arguments As String
+## Get All Arguments As String
 
 Retrieves all first argument from a string  
 <br>

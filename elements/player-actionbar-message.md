@@ -1,4 +1,4 @@
-# Player Actionbar Message
+## Player Actionbar Message
 
 Send a player an actionbar message
 <br>

@@ -1,4 +1,4 @@
-# Random(30%)
+## Random(30%)
 
 Will execute a random out of 3 connected elements
 <br>

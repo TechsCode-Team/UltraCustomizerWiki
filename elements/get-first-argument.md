@@ -1,4 +1,4 @@
-# Get First Argument 
+## Get First Argument 
 
 Retrieves the first argument from a command 
 

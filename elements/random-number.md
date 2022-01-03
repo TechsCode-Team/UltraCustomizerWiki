@@ -1,4 +1,4 @@
-# Random Number
+## Random Number
 
 Will generate a random number between the picked numbers
 

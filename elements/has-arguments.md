@@ -1,4 +1,4 @@
-# Has Arguments
+## Has Arguments
 
 Check if there are Arguments any provided by a command
 <br>

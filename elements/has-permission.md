@@ -1,4 +1,4 @@
-# Has Permission
+## Has Permission
 
 Checks if a player has a permission
 <br>

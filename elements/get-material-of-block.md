@@ -1,4 +1,4 @@
-# Get Material of Block
+## Get Material of Block
 
 Will retrieve the Material of a specific Block for Compare Material
 <br>

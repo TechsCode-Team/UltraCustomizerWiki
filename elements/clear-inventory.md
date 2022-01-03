@@ -1,4 +1,4 @@
-# Clear Inventory
+## Clear Inventory
 
 Clears the whole Inventory of a Player
 <br>

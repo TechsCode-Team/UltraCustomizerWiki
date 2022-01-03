@@ -1,4 +1,4 @@
-# Get Player Name
+## Get Player Name
 
 Retrieve the In-Game name of a player
 <br>

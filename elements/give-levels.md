@@ -1,4 +1,4 @@
-# Give Levels
+## Give Levels
 
 Gives a specific amount of levels to a player
 <br>
