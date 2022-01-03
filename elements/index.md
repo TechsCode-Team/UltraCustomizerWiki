@@ -1,7 +1,7 @@
 ## On this page you can find all the elements that are supported by Ultra Customizer
 <br>
 
-* [Get First Argument](/elements/get-first-argument)
+* [Get First Argument](./elements/get-first-argument.md)
 * [Get All Arguments As String](./elements/get-all-arguments-as-string)
 * [Has Arguments](./elements/has-arguments)
 * [Get Material of Block](./elements/get-material-of-block)
