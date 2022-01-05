@@ -1,5 +1,5 @@
 # Server installation
-First step is to download UltraCustomizer. Once you're done with this. `Stop your server`, and put the .jar file inside the `plugins` directory of your server.
+First step is to download Ultra Customizer. Once you're done with this. `Stop your server`, and put the .jar file inside the `plugins` directory of your server.
 <br>
 
 Once the .jar has been uploaded in your folder, you can start your server.
