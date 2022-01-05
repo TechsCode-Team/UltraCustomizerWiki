@@ -33,6 +33,16 @@
       }
     }
   },
+  "features": {
+    "iconType": "fas",
+    "icon":"info",
+    "title":"Features",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  },
   "elements": {
     "iconType": "fas",
     "icon":"sticky-note",
