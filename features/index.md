@@ -17,7 +17,7 @@ Here are all the features of Ultra Customizer.
 * **`Edit Plugin Messages`**
   Edit any message from any plugin with just a few clicks
 * **`MySQL`**
-  Offers a MySQL storage option to store you data on a database
+  Offers a MySQL storage option to store your data in a database
 * **`Updates`**
   Very frequent updates which can be installed with just a click
 * **`HEX & Gradient support`**
