@@ -1,5 +1,5 @@
 ## Text Utils
-**By: MeepTortoise**
+**By: MeepTortoise**<br>
 The TextUtils addon gives you the ability to altering the text within strings
 <br>
 

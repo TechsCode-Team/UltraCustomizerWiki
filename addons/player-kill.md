@@ -1,6 +1,6 @@
 ## Player Kill
-**By: MeepTortoise**
+**By: MeepTortoise**<br>
 The Player Kill addon returns the player who was killed and who killed them when someone dies to a player.
 <br>
 
-`Note:` *no informations given about the addon elements or constructors.*
+`Note:` *No informations given about the addon elements or constructors.*

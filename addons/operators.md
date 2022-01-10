@@ -1,5 +1,5 @@
 ## Operators
-**By: Kihron**
+**By: Kihron**<br>
 The Operators addon gives you the ability to add basic mathematical operations
 <br>
 

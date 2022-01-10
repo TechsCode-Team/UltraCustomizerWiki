@@ -1,6 +1,6 @@
 ## Fly Toggle
-**By: mirko0**
+**By: mirko0**<br>
 The Fly Toggle addon allows you to enable players flight ability.
 <br>
 
-`Note:` *no informations given about the addon elements or constructors.*
+`Note:` *No informations given about the addon elements or constructors.*

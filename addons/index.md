@@ -1,6 +1,6 @@
 ## Addons
 
-UltraCustomizer already has some basic elements but you can enhance your usage of this plugin by installing addons. These addons have been made by buyers of UltraCustomizer. This is a great way to increase your possibilities with this plugin.
+Ultra Customizer already has some basic elements but you can enhance your usage of this plugin by installing addons. These addons have been made by buyers of UltraCustomizer. This is a great way to increase your possibilities with this plugin.
 
 <br>
 

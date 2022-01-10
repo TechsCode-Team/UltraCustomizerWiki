@@ -1,5 +1,5 @@
 ## HTTPTools
-**By: mirk0**
+**By: mirk0**<br>
 Allows you to send HTTP get request.
 <br>
 

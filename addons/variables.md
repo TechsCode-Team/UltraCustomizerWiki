@@ -1,9 +1,9 @@
 ## Variables
-**By: Kihron**
+**By: Kihron**<br>
 The variables addon gives you the ability to store local variables across scripts and GUI's
 Variables created by this addon can also be used by other plugins.
-Example: `%ucvar_Your_Variable%`
-You want a variable only for 1 the player that creates the variable?
+Example: `%ucvar_Your_Variable%`<br>
+You want a variable only for 1 the player that creates the variable?<br>
 Example: `%ucvar_Your_Variable_$Player_Name$%`
 <br>
 

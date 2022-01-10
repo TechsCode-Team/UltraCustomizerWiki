@@ -1,5 +1,5 @@
 ## UltraPermissions
-**By: Fedee**
+**By: Fedee**<br>
 The UltraPermissions addon can run basic actions from the plugin UltraPermissions.
 <br>
 

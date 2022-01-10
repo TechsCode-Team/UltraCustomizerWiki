@@ -1,5 +1,5 @@
 ## Player
-**By: EazyFTW**
+**By: EazyFTW**<br>
 The Player addon gives you the ability to run elements and construcors related to players
 <br>
 

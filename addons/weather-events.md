@@ -1,5 +1,5 @@
 ## Weather Events
-**By: mirko0**
+**By: mirko0**<br>
 The Weather Events addon gives you the ability to add constructors that interact with weather events
 <br>
 

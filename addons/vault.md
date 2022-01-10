@@ -1,5 +1,5 @@
 ## Vault
-**By: EazyFTW**
+**By: EazyFTW**<br>
 The Vault addon gives you the ability to check but also edit the money of a player
 <br>
 
@@ -8,3 +8,6 @@ The Vault addon gives you the ability to check but also edit the money of a play
 * **Player remove from balance**, *Runs one of two actions depending if a player is in a certain amount of money.*
 * **Player set balance**, *Removing from a player's balance.*
 * **Player has money**, *Set a player's balance.*
+<br>
+
+**`NOTE:` This addon requires Vault to load!**
