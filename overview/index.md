@@ -7,16 +7,16 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands and Permissions](./commands.md) - The list of commands and permissions
-- [Installation Guide](./wiki/installation/index.md) - A quick guide on how to install Ultra Customizer
-- [Elements](/elements) - All the available Elements for Scripts
-- [Addons](/addons) - A list of all our Addons
-- [Events](/events) - All our Toggelable Events
-- [API](/api) - A guide on how to use our API
+- [Commands and Permissions](./overview#commandsandpermissions) - The list of commands and permissions
+- [Installation Guide](./installation/index.md) - A quick guide on how to install Ultra Customizer
+- [Elements](./elements) - All the available Elements for Scripts
+- [Addons](./addons) - A list of all our Addons
+- [Events](./events) - All our Toggelable Events
+- [API](./api) - A guide on how to use our API
 <br>
 <br>
 
-## Commands and Permissions {#commands}
+## Commands and Permissions {#commandsandpermissions}
 
 **`NOTE:` Both these commands require the `ultracustomizer.admin` permission**
 <br>
