@@ -6,7 +6,7 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-      "commands&permissions": {
+      "commands": {
         "title":"Commands",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
