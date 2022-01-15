@@ -324,8 +324,8 @@ import me.TechsCode.UltraCustomizer.scriptSystem.objects.ScriptInstance;
 import me.TechsCode.UltraCustomizer.scriptSystem.objects.datatypes.DataType;
 
 public class ItemMove extends Constructor {
-	public ItemMove(UltraCustomizer ultraCustomizer) {
-		super(ultraCustomizer);
+	public ItemMove(UltraCustomizer UltraCustomizer) {
+		super(UltraCustomizer);
 	}
 
 	public String getName() {
