@@ -1,5 +1,5 @@
 ## Usage
-The API of Ultra Customizer can be used to make addons for the marketplace. To use the API the Ultra Customizer jar and the Spigot jar must be added to the library of the workspace. Your main class should extend `Constructor` for construcors and `Element` for elements.
+The API of **Ultra Customizer** can be used to make addons for the marketplace. To use the API the Ultra Customizer jar and the Spigot jar must be added to the library of the workspace. Your main class should extend `Constructor` for construcors and `Element` for elements.
 <br>
 
 ## Initialization
