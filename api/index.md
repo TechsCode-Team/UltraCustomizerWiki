@@ -224,7 +224,7 @@ public boolean isUnlisted() {
 <br>
 
 ### Example Element Code
-The "Get Item In Slot" element from inventory utils.
+The "Get Item In Slot" element from Inventory Utils.
 ```java
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
@@ -305,7 +305,7 @@ public class GetItemInSlot extends Element {
 ```
 
 ### Constructor Example Code
-From the "Item Move Event" constructor in inventory utils.
+From the "Item Move Event" constructor in Inventory Utils.
 ```java
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
