@@ -286,6 +286,16 @@
       }
     }
   },
+  "scripts": {
+    "iconType": "fas",
+    "icon":"buffer",
+    "title":"Scripts",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+
+    }
+  },
   "addons": {
     "iconType": "fas",
     "icon":"plus-square",
