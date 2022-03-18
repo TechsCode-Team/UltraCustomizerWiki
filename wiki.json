@@ -286,6 +286,65 @@
       }
     }
   },
+  "scripts": {
+    "iconType": "fa-solid",
+    "icon":"buffer",
+    "title":"Scripts",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "player_join": {
+        "title":"Player Join",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "player_quit": {
+        "title":"Player Quit",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "player_death": {
+        "title":"Player Death",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "player_chat_message": {
+        "title":"Player Chat Message",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "block_place": {
+        "title":"Block Place",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "block_break": {
+        "title":"Block Break",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "right_click_on_block": {
+        "title":"Right Click on Block",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "item_right_click": {
+        "title":"Right Click on Item",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "food_level_change": {
+        "title":"Food Level Change",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "repeating": {
+        "title":"Repeating",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
   "addons": {
     "iconType": "fa-solid",
     "icon":"plus-square",
