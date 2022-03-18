@@ -287,7 +287,7 @@
     }
   },
   "scripts": {
-    "iconType": "fa-solid",
+    "iconType": "fa-buffer",
     "icon":"buffer",
     "title":"Scripts",
     "prev": { "url": "", "title": "" },
