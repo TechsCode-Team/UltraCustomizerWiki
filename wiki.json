@@ -30,6 +30,11 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "language": {
+        "title":"Language",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
       "troubleshooting": {
         "title":"Troubleshooting",
         "prev": { "url": "", "title": "" },
