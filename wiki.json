@@ -369,7 +369,12 @@
       },
       "bossbar-message": {
         "title":"Bossbar Messages",
-        
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "variables": {
+        "title":"Variables",
+        "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
       "text-component": {
