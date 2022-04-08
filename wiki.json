@@ -437,11 +437,6 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
-      "inventory-utils": {
-        "title":"Inventory Utils",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
-      },
       "string-converter": {
         "title":"String Converter",
         "prev": { "url": "", "title": "" },
@@ -463,7 +458,7 @@
         "next": { "url": "", "title": "" }
       },
       "downloads": {
-        "title":"Downloads",
+        "title":"Download",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
@@ -477,6 +472,11 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "potion-apply": {
+        "title":"Potion Apply",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
       "read-txt-file": {
         "title":"Read Txt File",
         "prev": { "url": "", "title": "" },
@@ -484,6 +484,11 @@
       },
       "player-stepped-on-block": {
         "title":"Player Stepped On Block",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "inventory-utils": {
+        "title":"Inventory Utils",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
@@ -499,6 +504,11 @@
       },
       "ultra-permissions": {
         "title":"UltraPermissions",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "geysermc": {
+        "title":"GeyserMC",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },

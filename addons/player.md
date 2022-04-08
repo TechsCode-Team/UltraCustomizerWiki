@@ -4,7 +4,7 @@ The Player addon gives you the ability to run elements and construcors related t
 <br>
 
 ### Elements
-* **Block Is NUll**, *Returns true if the block is null, false if it isn't.*
+* **Block Is Null**, *Returns true if the block is null, false if it isn't.*
 * **Turn A Block Into Material**, *Turns a block into a material.*
 * **Turn A Block Into Material String**, *Turns a block into a material (string).*
 * **Broadcast Centered Message**, *Broadcast a centered message.*
