@@ -1,6 +1,6 @@
 ## Locale
 **By: EazyFTW**<br>
-The Locale addon gives you the ability to retrieve a player in-game locale
+The Locale addon gives you the ability to retrieve a player in-game locale.
 <br>
 
 
@@ -8,4 +8,4 @@ The Locale addon gives you the ability to retrieve a player in-game locale
 * This addon requires a premium spigot plugin. Because we have no access to the plugin we can't provide any element or constructor
 <br>
 
-**`NOTE:` This addon requires Triton to load!**
+`Note:` *This addon requires [Triton](https://www.spigotmc.org/resources/triton-translate-your-server.30331/) to load!*

@@ -1,6 +1,6 @@
 ## UltraPermissions
 **By: Fedee**<br>
-The UltraPermissions addon can run basic actions from the plugin UltraPermissions.
+The Ultra Permissions addon can run basic actions from the plugin Ultra Permissions.
 <br>
 
 ### Elements List
@@ -14,4 +14,4 @@ The UltraPermissions addon can run basic actions from the plugin UltraPermission
 - **Add Permission to User** - *Allows you to add a permission to a user*
 - **Remove Permission from User** - *Allows you to remove a permission from a user*
 
-`Note:` It’s one of my first times that I use Java so the code can be weird or wrong. If you find any bugs feel free to write me on discord **Fedee#9989** or open an issue on [my github](https://github.com/Fedee0/UltraPermissions-Addon/issues).
+`Note:` *This addon requires [Ultra Permissions](https://www.spigotmc.org/resources/ultra-permissions.42678/) to load!*
