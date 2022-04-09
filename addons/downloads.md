@@ -3,4 +3,5 @@
 The Downloads addon gives you the ability to download files from URL.
 <br>
 
-`Note:` *No informations given about the addon elements or constructors.*
+* **Download File** - *This allows you to download a file from url to specific path.*
+* **Download File (Async)** - *This allows you to download a file from url to specific path. **ASYNCHRONOUSLY!***

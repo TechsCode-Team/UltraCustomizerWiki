@@ -3,4 +3,8 @@
 The Gamemode Changer addon allows you to change players gamemode with element.
 <br>
 
-`Note:` *No informations given about the addon elements or constructors.*
+### Elements
+* **Toggle Creative** - *Changes players gamemode.*
+* **Toggle Survival** - *Changes players gamemode.*
+* **Toggle Adventure** - *Changes players gamemode.*
+* **Toggle Spectator** - *Changes players gamemode.*

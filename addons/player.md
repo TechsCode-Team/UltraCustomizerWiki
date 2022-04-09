@@ -18,6 +18,7 @@ The Player addon gives you the ability to run elements and construcors related t
 * **Set Item In (Main) Hand** - *Set the item in a player's main hand.*
 * **Get Player's Target Block** - *Get the player's target block to air.*
 * **Teleport Player** - *Teleport a player to a certain location.*
+<br>
 
 ### Constructors
 * **Explosion Prime** - *Will be executed when an explosion is primed.*

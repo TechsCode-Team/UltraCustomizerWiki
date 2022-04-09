@@ -3,4 +3,7 @@
 The Fly Toggle addon allows you to enable players flight ability.
 <br>
 
-`Note:` *No informations given about the addon elements or constructors.*
+### Elements
+* **Allow Flight** - *Allows player to fly.*
+* **Deny Flight** - *Disables player ability to fly.*
+* **On Fly Toggle** - *Triggers when player presses jump button twice.*

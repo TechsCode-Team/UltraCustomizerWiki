@@ -12,8 +12,9 @@ The Inventory Utils addon gives you the ability to manage everything about playe
 * **Set Item In Slot** - *Set the item in a specific inventory slot.*
 * **Has Item** - *Check if a player has an item.*
 * **Is Inventory Empty** - *Check if a player has anything in their inventory.*
+<br>
 
-#### Constructors
+### Constructors
 * **Item Move Event** - *Will be executed when a item is moved from one inventory to another. EX: Item moving to hopper.*
 * **Item Smelt Event** - *Will be executed when a item is smelted.*
 * **Player Swap Hands Event** - *Will be executed when a player swaps an item between their main hand and their offhand.*
