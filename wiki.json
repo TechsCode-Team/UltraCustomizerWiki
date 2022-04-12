@@ -516,7 +516,12 @@
           "title":"HTTPTools",
           "prev": { "url": "", "title": "" },
           "next": { "url": "", "title": "" }
-      }
+      },
+      "viaversion": {
+        "title":"ViaVersion",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+    }
     }    
   },
   "faq": {
