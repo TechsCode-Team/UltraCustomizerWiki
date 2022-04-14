@@ -10,4 +10,4 @@ The ViaVersion addon allows you to get the protocol number of the version the pl
 **Example:** If the player joined with the version 1.8 the protocol number will be 47, you can find a list of all the protocol numbers for each version **[HERE](https://wiki.vg/Protocol_version_numbers)**.
 <br>
 
-`Note:` *This addon requires [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) to load!*
+`Note:` *This addon requires [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) to load! For the addon to work properly, it is necessary that **ViaVersion** is installed only on the **proxy** or only on the **back-end** servers.*
