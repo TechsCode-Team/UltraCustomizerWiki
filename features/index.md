@@ -22,5 +22,5 @@ Here are all the features of Ultra Customizer.
   Very frequent updates which can be installed with just a click
 * **`HEX & Gradient support`**
   HEXCODE support and Gradient support. (Item Name, Lore and Messages)
-  *Gradient: `{#RRBBGG>}Unnamed Item{#RRBBGG<}`*
-  *HEXCODE: `{#RRBBGG}Unnamed Item`*
+  *Gradient: `{#RRGGBB>}Unnamed Item{#RRGGBB<}`*
+  *HEXCODE: `{#RRGGBB}Unnamed Item`*
