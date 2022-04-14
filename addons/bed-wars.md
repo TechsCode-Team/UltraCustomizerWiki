@@ -1,5 +1,7 @@
 ## BedWars
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 The BedWars addon gives you the ability to add constructors for BedWars1058's events.
 <br>
 

@@ -1,5 +1,7 @@
 ## Better Compared Elements
-**By: MeepTortoise**<br>
+**By: MeepTortoise**
+<br>
+
 The Better Compared Elements addon compares x to y elements that automatically split without an if-else statement. Help keep longer scripts more clean.
 <br>
 

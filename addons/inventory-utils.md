@@ -1,5 +1,7 @@
 ## Inventory Utils
-**By: MeepTortoise**<br>
+**By: MeepTortoise**
+<br>
+
 The Inventory Utils addon gives you the ability to manage everything about player inventory.
 <br>
 

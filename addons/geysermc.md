@@ -1,5 +1,7 @@
 ## GeyserMC
-**By: Fedee**<br>
+**By: Fedee**
+<br>
+
 Allows you to check if a player joined with Minecraft Bedrock Edition.
 <br>
 

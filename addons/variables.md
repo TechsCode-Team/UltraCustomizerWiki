@@ -1,5 +1,7 @@
 ## Variables
-**By: Kihron**<br>
+**By: Kihron**
+<br>
+
 The variables addon gives you the ability to store local variables across scripts and GUI's
 Variables created by this addon can also be used by other plugins.
 Example: `%ucvar_Your_Variable%`<br>

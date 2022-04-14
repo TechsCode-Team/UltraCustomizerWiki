@@ -1,5 +1,7 @@
 ## Gamemode Changer
-**By: mirko0**<br>
+**By: mirko0**
+<br>
+
 The Gamemode Changer addon allows you to change players gamemode with element.
 <br>
 

@@ -1,5 +1,7 @@
 ## String Converter
-**By: Kihron**<br>
+**By: Kihron**
+<br>
+
 The String Converter addon gives you the ability to convert strings to other data types.
 <br>
 

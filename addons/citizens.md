@@ -1,5 +1,7 @@
 ## Citizens
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 The Citizens addon gives you the ability to make scripts with interaction of a NPC's.
 <br>
 

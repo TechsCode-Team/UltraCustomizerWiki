@@ -1,5 +1,7 @@
 ## Spigot
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 The Spigot addon gives you the ability to check plugin versions but also to check for spigot updates.
 <br>
 

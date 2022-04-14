@@ -1,5 +1,7 @@
 ## Text Component
-**By: Nathan**<br>
+**By: Nathan**
+<br>
+
 The Text Component addon gives you the ability to have a interaciable chat.
 <br>
 

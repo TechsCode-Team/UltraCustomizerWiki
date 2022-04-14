@@ -1,5 +1,7 @@
 ## Downloads
-**By: mirko0**<br>
+**By: mirko0**
+<br>
+
 The Downloads addon gives you the ability to download files from URL.
 <br>
 

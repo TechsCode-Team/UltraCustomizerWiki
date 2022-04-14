@@ -1,5 +1,7 @@
 ## BungeeCord
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 The BungeeCord addon gives you the ability to teleport players to a server.
 <br>
 

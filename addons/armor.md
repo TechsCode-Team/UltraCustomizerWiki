@@ -1,5 +1,7 @@
 ## Armor
-**By: MeepTortoise**<br>
+**By: MeepTortoise**
+<br>
+
 The Armor addon gives you the ability to change and get the armor players are wearing.
 <br>
 

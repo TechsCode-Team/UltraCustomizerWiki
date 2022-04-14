@@ -1,5 +1,7 @@
 ## Vault
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 The Vault addon gives you the ability to check but also edit the money of a player.
 <br>
 

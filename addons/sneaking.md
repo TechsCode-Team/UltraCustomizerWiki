@@ -1,5 +1,7 @@
 ## Sneaking
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 The Sneaking addon gives you the ability to to check if a player is sneaking.
 <br>
 

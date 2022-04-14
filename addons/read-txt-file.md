@@ -1,5 +1,7 @@
 ## Read Txt File
-**By: mirko0**<br>
+**By: mirko0**
+<br>
+
 The Read Txt File addon allows you to read txt file, or specific line from txt file. You can also read txt files from URL.
 <br>
 
