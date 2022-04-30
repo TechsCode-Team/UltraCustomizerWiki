@@ -1,6 +1,4 @@
 ## Commands and Permissions
-
-**`NOTE:` Both these commands require the `ultracustomizer.admin` permission**
 <br>
 
 * `/customizer`
@@ -8,6 +6,9 @@
 * `/interface <GUI> [Player]`
   Open a GUI created by Ultra Customizer
   <br>
+
+**`NOTE:` Both these commands require the `ultracustomizer.admin` permission**
+<br>
 
 ## Symbols:
 - <> = Required
