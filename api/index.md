@@ -141,6 +141,7 @@ public Child[] getConnectors(ElementInfo elementInfo) {
 	return new Child[] { (Child) new DefaultChild(elementInfo, "next") };
 }
 ```
+<br>
 
 ## Run
 This is where you will run your desired code for elements.
@@ -191,6 +192,8 @@ public void ClassName(EventToListenFor e) {
 		call(e);
 }
 ```
+<br>
+
 ## Preventing Errors
 To prevent errors you can use a if statements to check if variables you are using are null, and only calling your code when the item is not. For example:
 ```java
