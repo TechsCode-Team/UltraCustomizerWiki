@@ -21,5 +21,5 @@ The first argument of the command.
 - Value <String>
 <br>
 
-**Example**
+### Example
 If the player executes as command `/cool Hi there` the element will output only the first argument so in this case `Hi`.
