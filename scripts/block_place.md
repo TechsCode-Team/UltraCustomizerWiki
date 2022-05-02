@@ -1,8 +1,6 @@
 ## Block Place
 <br>
 
-**Description**
-<br>
 Will be executed when a player places a block
 <br>
 

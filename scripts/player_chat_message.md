@@ -1,8 +1,6 @@
 ## Player Chat Message
 <br>
 
-**Description**
-<br>
 Will be executed on a new Chat Message
 <br>
 

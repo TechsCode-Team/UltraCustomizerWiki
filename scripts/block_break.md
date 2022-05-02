@@ -1,8 +1,6 @@
 ## Block Break
 <br>
 
-**Description**
-<br>
 Will be executed when a player breaks a block
 <br>
 

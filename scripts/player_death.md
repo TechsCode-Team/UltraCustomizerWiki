@@ -1,8 +1,6 @@
 ## Player Death
 <br>
 
-**Description**
-<br>
 Will be executed when a player dies
 <br>
 
