@@ -78,6 +78,8 @@ You can add multiple arguments adding a comma and repeating the new argument cod
 <br>
 
 ### Avalible Datatypes
+<br>
+
 * Arguments
 * Block
 * Boolean
@@ -114,6 +116,8 @@ You can add multiple arguments adding a comma and repeating the new argument cod
 <br>
 
 ### Avalible Datatypes
+<br>
+
 * Arguments
 * Block
 * Boolean
@@ -130,7 +134,7 @@ You can add multiple arguments adding a comma and repeating the new argument cod
 * Time
 <br>
 
-### Get Connectors
+## Get Connectors
 This will go to the next element after this element is complete. **Only for elements, not constructors**.
 ```java
 public Child[] getConnectors(ElementInfo elementInfo) {
@@ -138,7 +142,7 @@ public Child[] getConnectors(ElementInfo elementInfo) {
 }
 ```
 
-### Run
+## Run
 This is where you will run your desired code for elements.
 ```java
 public void run(ElementInfo info, ScriptInstance instance) {
@@ -164,7 +168,7 @@ public void run(ElementInfo info, ScriptInstance instance) {
 In order to use the value of the incoming arguments, you have to use `getArguments(info)[0].getValue(instance)`, with the number being equal to argument in the order added.
 <br>
 
-### Setting Outcoming Variable
+## Setting Outcoming Variable
 To set the outcoming variable you have to use
 ```java
 	getOutcomingVariables(info)[0].register(instance, new DataRequester() {
@@ -172,14 +176,14 @@ To set the outcoming variable you have to use
 		}
 	});
 ```
-Inside the public Object request is where you will execute code to set the variable, useing `return (value)` to set the outcoming variable.
+Inside the public Object request is where you will execute code to set the variable, using `return (value)` to set the outcoming variable.
 <br>
 
 ### No Outcoming Variable
-When there is no outcoming vaiable ignore the above step, and just execture the code in the run function.
+When there is no outcoming vaiable ignore the above step, and just execute the code in the run function.
 <br>
 
-### Event Handler
+## Event Handler
 For constructers this is what will listen for a minecraft event that elements will run off. To find what events you can listen for check the spigot javadocs.
 ```java
 @EventHandler(priority = EventPriority.LOWEST)
@@ -187,7 +191,7 @@ public void ClassName(EventToListenFor e) {
 		call(e);
 }
 ```
-### Preventing Errors
+## Preventing Errors
 To prevent errors you can use a if statements to check if variables you are using are null, and only calling your code when the item is not. For example:
 ```java
 if (e.getItem() != null)
@@ -196,7 +200,7 @@ if (e.getItem() != null)
 This will only call the event if the item used in the event is not null. Useful when you use variables which break when null.
 <br>
 
-### Call
+## Call
 This is the code that will be executed in constructures when the event is called.
 ```java
 public void call(final SameEventAsEventHandler e) {
@@ -214,7 +218,7 @@ public void call(final SameEventAsEventHandler e) {
 Here is where you will set the values for the outcoming vairbales. The first is an example for setting the Cancelable event variable.
 <br>
 
-### Is Unlisted
+## Is Unlisted
 Weather or not the constructor is listed or not.
 ```java
 public boolean isUnlisted() {
