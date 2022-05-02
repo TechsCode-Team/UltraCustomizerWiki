@@ -11,7 +11,7 @@ Here are the arguments the element will need to work.
 - Arguments (Arguments)
 <br>
 
-**Output**
+### Output
 The first argument of the command.
 <br>
 
