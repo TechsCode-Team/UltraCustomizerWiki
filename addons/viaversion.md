@@ -4,7 +4,7 @@ The ViaVersion addon allows you to get the protocol number of the version the pl
 <br>
 
 ### Elements
-* **Get Protocol Number** - *Get the protocol number with which the player entered the server.*
+* **Get Protocol Number** - *Get the protocol number with which the player joined the server.*
 * **Get Player Version** - *Get the client version with which the player joined the server.*
 <br>
 
