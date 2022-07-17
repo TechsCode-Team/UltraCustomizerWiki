@@ -521,6 +521,16 @@
         "title":"ViaVersion",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
+      },
+      "anvi-text-input": {
+        "title":"Anvil Text Input",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "survival-games": {
+        "title":"Survival Games",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
     }
     }    
   },
