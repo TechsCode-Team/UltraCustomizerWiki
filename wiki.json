@@ -522,7 +522,7 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
-      "anvi-text-input": {
+      "anvil-text-input": {
         "title":"Anvil Text Input",
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
