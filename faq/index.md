@@ -16,3 +16,6 @@ Here are all the frequently asked questions from Ultra Customizer.
   Yes, you can find a guide for learn how to use Ultra Customizer **[HERE](https://guides.ultracustomizer.com/)**
 * **`I lose my GUIs and Commands if i update the plugin?`**
   No, you don't lose any data if you properly update the plugin
+* **`How can I access a custom menu or command from another seperate folder?`**
+
+  This isn't really supported as folders are supposed to be seperate from each other, however here is an example of a work around; Player has custom command/menu X sitting inside folder A. Player makes another custom command inside folder B, if the player wants this custom command from folder B to open menu X from folder A, they can set the custom player command element to `/interface menuX`. Alternativly, you can install the [Essentials](https://www.spigotmc.org/resources/essentialsx.9089/) plugin and utilize the `sudo` command. Start by getting the player name element, followed by the console command element with `sudo %1 customCommandFromFolderA` which will run your `customCommandFromFolderA` as the player. The vanilla `execute` command also has similar functionality to the essentials `sudo` command, but it seems to only allow vanilla commands in it's arguments.
