@@ -1,7 +1,7 @@
-## Get All Arguments As String
+## Get Argument By Number
 <br>
 
-Get all arguments as a string combined with a space,and returns nothing if there isn't an argument.
+Retrieves the Argument and returns nothing if there isn't an argument.
 <br>
 
 ### Arguments
@@ -9,10 +9,11 @@ Here are the arguments the element will need to work.
 <br>
 
 - Arguments (Arguments)
+- Argument Number (Number)
 <br>
 
 ### Output
-All command arguments separated by a space.
+The argument found in the specified number.
 <br>
 
 **Created Variables**

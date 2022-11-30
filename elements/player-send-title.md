@@ -3,7 +3,7 @@
 Send a specific title to a player
 <br>
 
-**Output**
+### Output
 Title
 <br>
 
