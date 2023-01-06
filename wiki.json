@@ -58,6 +58,7 @@
     "title":"Elements",
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
+    "showSubSearch": true,
     "subItems": {
       "get-first-argument": {
         "title":"Get First Argument",
@@ -297,6 +298,7 @@
     "title":"Scripts",
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
+    "showSubSearch": true,
     "subItems": {
       "player_join": {
         "title":"Player Join",
@@ -356,6 +358,7 @@
     "title":"Addons",
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
+    "showSubSearch": true,
     "subItems": {
       "player": {
         "title":"Player",
