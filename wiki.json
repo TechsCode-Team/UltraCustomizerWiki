@@ -530,6 +530,11 @@
         "prev": { "url": "", "title": "" },
         "next": { "url": "", "title": "" }
       },
+      "random-elements": {
+        "title":"Random Elements",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
       "survival-games": {
         "title":"Survival Games",
         "prev": { "url": "", "title": "" },
