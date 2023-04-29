@@ -3,7 +3,7 @@
 Send a player an actionbar message
 <br>
 
-**Output**
+### Output
 Actionbar Message
 <br>
 

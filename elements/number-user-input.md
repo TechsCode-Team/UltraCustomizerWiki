@@ -3,5 +3,5 @@
 Will open a Number Picker GUI
 <br>
 
-**Output**
+### Output
 Int

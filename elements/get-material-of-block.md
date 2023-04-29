@@ -3,9 +3,10 @@
 Will retrieve the Material of a specific Block for Compare Material
 <br>
 
-**Output**
+### Output
 bool(True or False)
 <br>
 
-**Example**
+### Example
+
 Used in Compare Material

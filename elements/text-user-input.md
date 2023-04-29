@@ -3,5 +3,5 @@
 Will prompt the player to input text in chat
 <br>
 
-**Output**
+### Output
 String

@@ -3,6 +3,6 @@
 Clears the whole Inventory of a Player
 <br>
 
-**Output**
+### Output
 Clear the player inventory
 <br>

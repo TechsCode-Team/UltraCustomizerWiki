@@ -3,7 +3,7 @@
 Will open a GUI with all online players
 <br>
 
-**Output**
+### Output
 GUI
 <br>
 

@@ -4,10 +4,11 @@ Will check if two Strings are the same
 
 <br>
 
-**Output**
+### Output
 bool(True or False)
 <br>
 
-**Example**
+### Example
+
 Hey > Hey (True)
 Hey > Bye (False)
