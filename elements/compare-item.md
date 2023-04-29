@@ -4,11 +4,10 @@ Will check if two Items are the same
 
 <br>
 
-### Output
+**Output**
 bool(True or False)
 <br>
 
-### Example
-
+**Example**
 TNT > TNT (True)
 TNT > Sand (False)

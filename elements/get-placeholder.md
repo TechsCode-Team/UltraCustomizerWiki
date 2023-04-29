@@ -3,11 +3,10 @@
 Will return the selected placeholder
 <br>
 
-### Output
+**Output**
 String
 
 <br>
 
-### Example
-
+**Example**
 %player_displayname% > Players Display Name

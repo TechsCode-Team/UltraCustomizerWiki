@@ -4,11 +4,10 @@ Will generate a random number between the picked numbers
 
 <br>
 
-### Output
+**Output**
 Number
 
 <br>
 
-### Example
-
+**Example**
 1 - 100 = 45
