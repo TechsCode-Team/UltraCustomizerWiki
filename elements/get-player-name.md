@@ -1,4 +1,5 @@
-## Get Player Name <img src="./../item/name_tag.png" width="25" style="vertical-align:middle;margin:3px">
+## Get Player Name
+<br>
 
 Retrieve the In-Game name of a player.
 <br>
@@ -11,15 +12,14 @@ Here are the arguments the element will need to work.
 <br>
 
 ### Output
-The name of the specified player.
+Will create a variable that holds the name of the specified player.
 <br>
 
 **Created Variables**
 <br>
 
-- Player Name <String>
+- Player Name &lt;String&gt; \<String\>
 <br>
 
 ### Example
-
-If the specified player name is `ItsSnoowy`, the created variable will have its name as a value, so `ItsSnoowy`.
+If the specified player name is `ItsSnoowy`, the created variable will have its name as value, so `ItsSnoowy`.
