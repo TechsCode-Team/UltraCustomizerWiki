@@ -18,9 +18,6 @@ Then click on the Book and Quill in the top-right of the GUI. *(Called `Language
 Then click on the language that you want to use.
 <br>
 
-If you would like to edit one of our translations you can make a Pull Request on our [GitHub repository](https://github.com/TechsCode-Team/PluginTranslations/tree/main/Translations).
-<br>
-
 ## Custom Language
 If you don't want to use the translations we provide, you can create your own and customise it as you wish. To do this you will have to create 2 different files in the folder `Languages` which you will find inside the one called `UltraCustomizer`. The first file should be called `Base_MyLanguage`, you can replace `MyLanguage` with the name you prefer, the second file should be called `UltraCustomizer_MyLanguage`, here you  need to replace `MyLanguage` with the same one that you used in the first file. In the first file you will need to copy and paste the text that you find on our [GitHub repository](https://github.com/TechsCode-Team/PluginTranslations/blob/main/Templates/Base_English.lang), while for the second file you have to paste the text that you find **[HERE](https://github.com/TechsCode-Team/PluginTranslations/blob/main/Templates/UltraCustomizer_English.lang)**. After that you can edit as many sentences as you want, and then you will have to restart your server for your translation to load.
 <br>
@@ -35,3 +32,9 @@ Then click on the Book and Quill in the top-right of the GUI. *(Called `Language
 <br>
 
 Then click on the language that you created.
+<br>
+
+# Contribute
+We are always looking to expand our plugin's community. If you find a language our plugin does not currently support, feel free to create a Pull Request on our [GitHub repository](https://github.com/TechsCode-Team/PluginTranslations/tree/main/Translations). 
+
+*Thank you to those who put in the time to translate our plugins. <3*
