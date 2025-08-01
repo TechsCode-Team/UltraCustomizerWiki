@@ -3,11 +3,17 @@ Ultra Customizer requires **[Spigot](https://getbukkit.org/download/spigot)**, *
 <br>
 
 ## Server Version
-Ultra Customizer is supported on all versions (release) from **1.8.8 to 1.18.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
+Ultra Customizer is supported on all versions (release) from **1.8.8 to 1.21.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
 <br>
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
 
 # Download The Latest Build
-Download the latest build of Ultra Customizer via the resource page **[here](https://www.spigotmc.org/resources/ultra-customizer.49330/)**
+Download the latest build of Ultra Customizer via one of the resource pages:
+<br>
+**[SpigotMC](https://www.spigotmc.org/resources/ultra-customizer.49330/)**
+<br>
+**[PolyMart](https://polymart.org/product/1203/ultra-customizer)**
+<br>
+**[BuiltByBit](https://builtbybit.com/resources/ultra-customizer.19029/)**
